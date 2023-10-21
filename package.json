@@ -4,30 +4,30 @@
     "description": "A Node.js command-line application that generates a logo and saves it as an SVG file.",
     "main": "index.js",
     "scripts": {
-       "test": "jest"
+        "test": "jest"
     },
     "repository": {
-       "type": "git",
-       "url": "https://github.com/acantu9/svg-logo-maker.git"
+        "type": "git",
+        "url": "https://github.com/acantu9/svg-logo-maker.git"
     },
     "keywords": [
-       "svg",
-       "logo",
-       "maker",
-       "command-line",
-       "node.js"
+        "svg",
+        "logo",
+        "maker",
+        "command-line",
+        "node.js"
     ],
     "author": "Adriana Cantu",
     "license": "MIT",
     "bugs": {
-       "url": "https://github.com/acantu9/svg-logo-maker/issues"
+        "url": "https://github.com/acantu9/svg-logo-maker/issues"
     },
     "homepage": "https://github.com/acantu9/svg-logo-maker#readme",
     "dependencies": {
-       "inquirer": "^8.1.3",
-       "svg-captcha": "^1.3.0"
+        "inquirer": "^8.2.6",
+        "svg-captcha": "^1.4.0"
     },
     "devDependencies": {
-       "jest": "^27.2.2"
+        "jest": "^27.5.1"
     }
 }
